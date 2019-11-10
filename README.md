@@ -1,0 +1,2 @@
+# ArcoLinuxB-Mate Calamares configuration
+
